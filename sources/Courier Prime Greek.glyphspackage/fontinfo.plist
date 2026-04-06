@@ -1,0 +1,1204 @@
+{
+.appVersion = "3436";
+classes = (
+{
+automatic = 1;
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Eth Dcaron Dcroat E Eacute Ebreve Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Eng Ntilde O Oacute Obreve Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent Delta Omega";
+name = Uppercase;
+}
+);
+copyright = "Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).";
+customParameters = (
+{
+name = isFixedPitch;
+value = 1;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = glyphOrder;
+value = (
+.notdef,
+.null,
+CR,
+space,
+exclam,
+quotedbl,
+numbersign,
+dollar,
+percent,
+ampersand,
+quotesingle,
+parenleft,
+parenright,
+asterisk,
+plus,
+comma,
+hyphen,
+period,
+slash,
+zero,
+one,
+two,
+three,
+four,
+five,
+six,
+seven,
+eight,
+nine,
+colon,
+semicolon,
+less,
+equal,
+greater,
+question,
+at,
+A,
+B,
+C,
+D,
+E,
+F,
+G,
+H,
+I,
+J,
+K,
+L,
+M,
+N,
+O,
+P,
+Q,
+R,
+S,
+T,
+U,
+V,
+W,
+X,
+Y,
+Z,
+bracketleft,
+backslash,
+bracketright,
+asciicircum,
+underscore,
+grave,
+a,
+b,
+c,
+d,
+e,
+f,
+g,
+h,
+i,
+j,
+k,
+l,
+m,
+n,
+o,
+p,
+q,
+r,
+s,
+t,
+u,
+v,
+w,
+x,
+y,
+z,
+braceleft,
+bar,
+braceright,
+asciitilde,
+uni00A0,
+exclamdown,
+cent,
+sterling,
+currency,
+yen,
+brokenbar,
+section,
+dieresis,
+copyright,
+ordfeminine,
+guillemotleft,
+logicalnot,
+uni00AD,
+registered,
+macron,
+degree,
+plusminus,
+twosuperior,
+threesuperior,
+acute,
+mu,
+paragraph,
+periodcentered,
+cedilla,
+onesuperior,
+ordmasculine,
+guillemotright,
+onequarter,
+onehalf,
+threequarters,
+questiondown,
+Agrave,
+Aacute,
+Acircumflex,
+Atilde,
+Adieresis,
+Aring,
+AE,
+Ccedilla,
+Egrave,
+Eacute,
+Ecircumflex,
+Edieresis,
+Igrave,
+Iacute,
+Icircumflex,
+Idieresis,
+Eth,
+Ntilde,
+Ograve,
+Oacute,
+Ocircumflex,
+Otilde,
+Odieresis,
+multiply,
+Oslash,
+Ugrave,
+Uacute,
+Ucircumflex,
+Udieresis,
+Yacute,
+Thorn,
+germandbls,
+agrave,
+aacute,
+acircumflex,
+atilde,
+adieresis,
+aring,
+ae,
+ccedilla,
+egrave,
+eacute,
+ecircumflex,
+edieresis,
+igrave,
+iacute,
+icircumflex,
+idieresis,
+eth,
+ntilde,
+ograve,
+oacute,
+ocircumflex,
+otilde,
+odieresis,
+divide,
+oslash,
+ugrave,
+uacute,
+ucircumflex,
+udieresis,
+yacute,
+thorn,
+ydieresis,
+Amacron,
+amacron,
+Abreve,
+abreve,
+Aogonek,
+aogonek,
+Cacute,
+cacute,
+Ccircumflex,
+ccircumflex,
+Cdotaccent,
+cdotaccent,
+Ccaron,
+ccaron,
+Dcaron,
+dcaron,
+Dcroat,
+dcroat,
+Emacron,
+emacron,
+Edotaccent,
+edotaccent,
+Eogonek,
+eogonek,
+Ecaron,
+ecaron,
+Gcircumflex,
+gcircumflex,
+Gbreve,
+gbreve,
+Gdotaccent,
+gdotaccent,
+Gcommaaccent,
+gcommaaccent,
+Hcircumflex,
+hcircumflex,
+Hbar,
+hbar,
+Imacron,
+imacron,
+Iogonek,
+iogonek,
+Idotaccent,
+dotlessi,
+IJ,
+ij,
+Jcircumflex,
+jcircumflex,
+Kcommaaccent,
+kcommaaccent,
+Lacute,
+lacute,
+Lcommaaccent,
+lcommaaccent,
+Lcaron,
+lcaron,
+Lslash,
+lslash,
+Nacute,
+nacute,
+Ncommaaccent,
+ncommaaccent,
+Ncaron,
+ncaron,
+Omacron,
+omacron,
+Ohungarumlaut,
+ohungarumlaut,
+OE,
+oe,
+Racute,
+racute,
+Rcommaaccent,
+rcommaaccent,
+Rcaron,
+rcaron,
+Sacute,
+sacute,
+Scircumflex,
+scircumflex,
+Scedilla,
+scedilla,
+Scaron,
+scaron,
+Tcommaaccent,
+tcommaaccent,
+Tcaron,
+tcaron,
+Umacron,
+umacron,
+Ubreve,
+ubreve,
+Uring,
+uring,
+Uhungarumlaut,
+uhungarumlaut,
+Uogonek,
+uogonek,
+Ydieresis,
+Zacute,
+zacute,
+Zdotaccent,
+zdotaccent,
+Zcaron,
+zcaron,
+longs,
+florin,
+Scommaaccent,
+scommaaccent,
+uni021A,
+uni021B,
+dotlessj,
+circumflex,
+caron,
+breve,
+dotaccent,
+ring,
+ogonek,
+tilde,
+hungarumlaut,
+uni037E,
+tonos,
+dieresistonos,
+Alphatonos,
+anoteleia,
+Epsilontonos,
+Etatonos,
+Iotatonos,
+Omicrontonos,
+Upsilontonos,
+Omegatonos,
+iotadieresistonos,
+Alpha,
+Beta,
+Gamma,
+uni0394,
+Epsilon,
+Zeta,
+Eta,
+Theta,
+Iota,
+Kappa,
+Lambda,
+Mu,
+Nu,
+Xi,
+Omicron,
+Pi,
+Rho,
+Sigma,
+Tau,
+Upsilon,
+Phi,
+Chi,
+Psi,
+uni03A9,
+Iotadieresis,
+Upsilondieresis,
+alphatonos,
+epsilontonos,
+etatonos,
+iotatonos,
+upsilondieresistonos,
+alpha,
+beta,
+gamma,
+delta,
+epsilon,
+zeta,
+eta,
+theta,
+iota,
+kappa,
+lambda,
+uni03BC,
+nu,
+xi,
+omicron,
+pi,
+rho,
+sigma1,
+sigma,
+tau,
+upsilon,
+phi,
+chi,
+psi,
+omega,
+iotadieresis,
+upsilondieresis,
+omicrontonos,
+upsilontonos,
+omegatonos,
+beta1,
+phi1,
+afii10023,
+afii10051,
+afii10052,
+afii10053,
+afii10054,
+afii10055,
+afii10056,
+afii10057,
+afii10058,
+afii10059,
+afii10060,
+afii10061,
+afii10062,
+afii10145,
+afii10017,
+afii10018,
+afii10019,
+afii10020,
+afii10021,
+afii10022,
+afii10024,
+afii10025,
+afii10026,
+afii10027,
+afii10028,
+afii10029,
+afii10030,
+afii10031,
+afii10032,
+afii10033,
+afii10034,
+afii10035,
+afii10036,
+afii10037,
+afii10038,
+afii10039,
+afii10040,
+afii10041,
+afii10042,
+afii10043,
+afii10044,
+afii10045,
+afii10046,
+afii10047,
+afii10048,
+afii10049,
+afii10065,
+afii10066,
+afii10067,
+afii10068,
+afii10069,
+afii10070,
+afii10072,
+afii10073,
+afii10074,
+afii10075,
+afii10076,
+afii10077,
+afii10078,
+afii10079,
+afii10080,
+afii10081,
+afii10082,
+afii10083,
+afii10084,
+afii10085,
+afii10086,
+afii10087,
+afii10088,
+afii10089,
+afii10090,
+afii10091,
+afii10092,
+afii10093,
+afii10094,
+afii10095,
+afii10096,
+afii10097,
+afii10071,
+afii10099,
+afii10100,
+afii10101,
+afii10102,
+afii10103,
+afii10104,
+afii10105,
+afii10106,
+afii10107,
+afii10108,
+afii10109,
+afii10110,
+afii10193,
+afii10050,
+afii10098,
+endash,
+emdash,
+afii00208,
+quoteleft,
+quoteright,
+quotesinglbase,
+quotedblleft,
+quotedblright,
+quotedblbase,
+dagger,
+daggerdbl,
+bullet,
+ellipsis,
+perthousand,
+guilsinglleft,
+guilsinglright,
+fraction,
+uni2070,
+uni2074,
+uni2075,
+uni2076,
+uni2077,
+uni2078,
+uni2079,
+uni2080,
+uni2081,
+uni2082,
+uni2083,
+uni2084,
+uni2085,
+uni2086,
+uni2087,
+uni2088,
+uni2089,
+Euro,
+afii61352,
+uni2117,
+trademark,
+Omega,
+arrowleft,
+arrowup,
+arrowright,
+arrowdown,
+uni2196,
+uni2197,
+uni2198,
+uni2199,
+partialdiff,
+Delta,
+product,
+summation,
+minus,
+uni2219,
+radical,
+infinity,
+uni2224,
+logicaland,
+integral,
+approxequal,
+notequal,
+lessequal,
+greaterequal,
+dotmath,
+uni25B4,
+uni25B8,
+uni25BE,
+uni25C2,
+lozenge,
+uniFB00,
+fi,
+fl,
+uniFB03,
+uniFB04,
+uniFB06,
+parenleft.case,
+parenright.case,
+hyphen.case,
+bracketleft.case,
+bracketright.case,
+braceleft.case,
+braceright.case,
+guillemotleft.case,
+uni00AD.case,
+guillemotright.case,
+endash.case,
+emdash.case,
+guilsinglleft.case,
+guilsinglright.case,
+zero.dnom,
+one.dnom,
+two.dnom,
+three.dnom,
+four.dnom,
+five.dnom,
+six.dnom,
+seven.dnom,
+eight.dnom,
+nine.dnom,
+germandbls.hist,
+grave.lc,
+dieresis.lc,
+macron.lc,
+acute.lc,
+circumflex.lc,
+caron.lc,
+breve.lc,
+dotaccent.lc,
+ring.lc,
+tilde.lc,
+hungarumlaut.lc,
+diedot.lc,
+zero.lf,
+one.lf,
+two.lf,
+three.lf,
+four.lf,
+five.lf,
+six.lf,
+seven.lf,
+eight.lf,
+nine.lf,
+g.salt,
+pi.salt,
+arrowleft.salt,
+arrowup.salt,
+arrowright.salt,
+arrowdown.salt,
+uni2196.salt,
+uni2197.salt,
+uni2198.salt,
+uni2199.salt,
+a.sc,
+b.sc,
+c.sc,
+d.sc,
+e.sc,
+f.sc,
+g.sc,
+h.sc,
+i.sc,
+j.sc,
+k.sc,
+l.sc,
+m.sc,
+n.sc,
+o.sc,
+p.sc,
+q.sc,
+r.sc,
+s.sc,
+t.sc,
+u.sc,
+v.sc,
+w.sc,
+x.sc,
+y.sc,
+z.sc,
+germandbls.sc,
+agrave.sc,
+aacute.sc,
+acircumflex.sc,
+atilde.sc,
+adieresis.sc,
+aring.sc,
+ae.sc,
+ccedilla.sc,
+egrave.sc,
+eacute.sc,
+ecircumflex.sc,
+edieresis.sc,
+igrave.sc,
+iacute.sc,
+icircumflex.sc,
+idieresis.sc,
+eth.sc,
+ntilde.sc,
+ograve.sc,
+oacute.sc,
+ocircumflex.sc,
+otilde.sc,
+odieresis.sc,
+oslash.sc,
+ugrave.sc,
+uacute.sc,
+ucircumflex.sc,
+udieresis.sc,
+yacute.sc,
+thorn.sc,
+ydieresis.sc,
+amacron.sc,
+abreve.sc,
+aogonek.sc,
+cacute.sc,
+ccircumflex.sc,
+cdotaccent.sc,
+ccaron.sc,
+dcaron.sc,
+dcroat.sc,
+emacron.sc,
+edotaccent.sc,
+eogonek.sc,
+ecaron.sc,
+gcircumflex.sc,
+gbreve.sc,
+gdotaccent.sc,
+gcommaaccent.sc,
+hcircumflex.sc,
+hbar.sc,
+imacron.sc,
+iogonek.sc,
+Idotaccent.sc,
+dotlessi.sc,
+jcircumflex.sc,
+kcommaaccent.sc,
+lacute.sc,
+lcommaaccent.sc,
+lcaron.sc,
+lslash.sc,
+nacute.sc,
+ncommaaccent.sc,
+ncaron.sc,
+omacron.sc,
+ohungarumlaut.sc,
+oe.sc,
+racute.sc,
+rcommaaccent.sc,
+rcaron.sc,
+sacute.sc,
+scircumflex.sc,
+scedilla.sc,
+scaron.sc,
+tcommaaccent.sc,
+tcaron.sc,
+umacron.sc,
+ubreve.sc,
+uring.sc,
+uhungarumlaut.sc,
+uogonek.sc,
+zacute.sc,
+zdotaccent.sc,
+zcaron.sc,
+scommaaccent.sc,
+uni021B.sc,
+Alphatonos.sc,
+Epsilontonos.sc,
+Etatonos.sc,
+Iotatonos.sc,
+Omicrontonos.sc,
+Upsilontonos.sc,
+Omegatonos.sc,
+iotadieresistonos.sc,
+alphatonos.sc,
+epsilontonos.sc,
+etatonos.sc,
+iotatonos.sc,
+upsilondieresistonos.sc,
+alpha.sc,
+beta.sc,
+gamma.sc,
+delta.sc,
+epsilon.sc,
+zeta.sc,
+eta.sc,
+theta.sc,
+iota.sc,
+kappa.sc,
+lambda.sc,
+uni03BC.sc,
+nu.sc,
+xi.sc,
+omicron.sc,
+pi.sc,
+rho.sc,
+sigma1.sc,
+sigma.sc,
+tau.sc,
+upsilon.sc,
+phi.sc,
+chi.sc,
+psi.sc,
+omega.sc,
+iotadieresis.sc,
+upsilondieresis.sc,
+omicrontonos.sc,
+upsilontonos.sc,
+omegatonos.sc,
+beta1.sc,
+phi1.sc,
+afii10065.sc,
+afii10066.sc,
+afii10067.sc,
+afii10068.sc,
+afii10069.sc,
+afii10070.sc,
+afii10072.sc,
+afii10073.sc,
+afii10074.sc,
+afii10075.sc,
+afii10076.sc,
+afii10077.sc,
+afii10078.sc,
+afii10079.sc,
+afii10080.sc,
+afii10081.sc,
+afii10082.sc,
+afii10083.sc,
+afii10084.sc,
+afii10085.sc,
+afii10086.sc,
+afii10087.sc,
+afii10088.sc,
+afii10089.sc,
+afii10090.sc,
+afii10091.sc,
+afii10092.sc,
+afii10093.sc,
+afii10094.sc,
+afii10095.sc,
+afii10096.sc,
+afii10097.sc,
+afii10071.sc,
+afii10099.sc,
+afii10100.sc,
+afii10101.sc,
+afii10102.sc,
+afii10103.sc,
+afii10104.sc,
+afii10105.sc,
+afii10106.sc,
+afii10107.sc,
+afii10108.sc,
+afii10109.sc,
+afii10110.sc,
+afii10193.sc,
+afii10098.sc,
+uniFB00.sc,
+fi.sc,
+fl.sc,
+uniFB03.sc,
+uniFB04.sc,
+zero.tf,
+one.tf,
+two.tf,
+three.tf,
+four.tf,
+five.tf,
+six.tf,
+seven.tf,
+eight.tf,
+nine.tf,
+zero.tosf,
+one.tosf,
+two.tosf,
+three.tosf,
+four.tosf,
+five.tosf,
+six.tosf,
+seven.tosf,
+eight.tosf,
+nine.tosf,
+grave.uc,
+dieresis.uc,
+macron.uc,
+acute.uc,
+circumflex.uc,
+caron.uc,
+breve.uc,
+dotaccent.uc,
+ring.uc,
+tilde.uc,
+hungarumlaut.uc,
+diedot.uc,
+T_h,
+T_h_e,
+Tcedilla,
+c_b,
+c_h,
+c_k,
+c_l,
+c_t,
+commaaccent,
+commaturn,
+f_b,
+f_f_j,
+f_f_t,
+f_h,
+f_j,
+f_k,
+f_t,
+f_u,
+f_v,
+f_w,
+f_y,
+h_e,
+orn001,
+orn002,
+orn003,
+orn004,
+q_t,
+s_b,
+s_c_h,
+s_h,
+s_k,
+s_l,
+s_p,
+t_f,
+t_h_e,
+t_i,
+t_j,
+t_t,
+t_t_f,
+t_t_i,
+t_t_j,
+t_u,
+t_v,
+t_w,
+t_y,
+tcedilla,
+undercommaaccent
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = vendorID;
+value = QUQA;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
+}
+);
+date = "2019-09-09 22:34:09 +0000";
+designer = "Alan Dague-Greene, Quote-Unquote Apps";
+designerURL = "http://basicrecipe.com";
+familyName = "Courier Prime";
+featurePrefixes = (
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;\012languagesystem grek dflt;\012languagesystem latn dflt;\012languagesystem latn ROM;\012languagesystem latn MOL;\012languagesystem latn CAT;\012";
+name = Languagesystems;
+}
+);
+features = (
+{
+automatic = 1;
+code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012";
+name = aalt;
+},
+{
+automatic = 1;
+code = "script latn;\012language ROM;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language MOL;\012sub Scedilla by Scommaaccent;\012sub scedilla by scommaaccent;\012sub Tcedilla by Tcommaaccent;\012sub tcedilla by tcommaaccent;\012language CAT;\012sub  l' periodcentered' l by ldot;\012sub  L' periodcentered' L by Ldot;\012";
+name = locl;
+},
+{
+automatic = 1;
+code = "sub one by onesuperior;\012sub two by twosuperior;\012sub three by threesuperior;\012sub four by foursuperior;\012";
+name = sups;
+},
+{
+automatic = 1;
+code = "sub one slash four by onequarter;\012sub one slash two by onehalf;\012sub three slash four by threequarters;\012";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;\012sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;\012";
+name = ordn;
+},
+{
+automatic = 1;
+code = "sub commaaccentcomb by commaaccentcomb.case;\012sub acute by acute.case;\012sub breve by breve.case;\012sub caron by caron.case;\012sub cedilla by cedilla.case;\012sub circumflex by circumflex.case;\012sub dieresis by dieresis.case;\012sub dotaccent by dotaccent.case;\012sub grave by grave.case;\012sub hungarumlaut by hungarumlaut.case;\012sub macron by macron.case;\012sub ogonek by ogonek.case;\012sub ring by ring.case;\012sub tilde by tilde.case;\012";
+name = case;
+}
+);
+fontMaster = (
+{
+alignmentZones = (
+"{1312, 22}",
+"{1187, 22}",
+"{924, 22}",
+"{0, -22}",
+"{-388, -22}"
+);
+ascender = 1421;
+capHeight = 1187;
+customParameters = (
+{
+name = typoAscender;
+value = 1600;
+},
+{
+name = typoDescender;
+value = -700;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1600;
+},
+{
+name = hheaDescender;
+value = -700;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1900;
+},
+{
+name = winDescent;
+value = -800;
+},
+{
+name = underlineThickness;
+value = 130;
+},
+{
+name = underlinePosition;
+value = -250;
+}
+);
+descender = -643;
+guideLines = (
+{
+position = "{-72, 1312}";
+},
+{
+position = "{-91, -388}";
+}
+);
+horizontalStems = (
+136,
+148,
+0
+);
+id = UUID0;
+verticalStems = (
+150,
+158
+);
+weightValue = 150;
+xHeight = 924;
+},
+{
+alignmentZones = (
+"{1312, 22}",
+"{1187, 22}",
+"{924, 22}",
+"{0, -22}",
+"{-388, -22}"
+);
+ascender = 1421;
+capHeight = 1187;
+customParameters = (
+{
+name = typoAscender;
+value = 1600;
+},
+{
+name = typoDescender;
+value = -700;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1600;
+},
+{
+name = hheaDescender;
+value = -700;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1900;
+},
+{
+name = winDescent;
+value = -800;
+},
+{
+name = underlineThickness;
+value = 130;
+},
+{
+name = underlinePosition;
+value = -220;
+}
+);
+descender = -643;
+guideLines = (
+{
+position = "{-92, -388}";
+},
+{
+position = "{-72, 1312}";
+}
+);
+horizontalStems = (
+215,
+227,
+205
+);
+id = "8538028E-5D6C-4318-9676-30148CDA39CA";
+verticalStems = (
+250,
+268
+);
+weight = Bold;
+weightValue = 250;
+xHeight = 924;
+}
+);
+instances = (
+{
+exports = 0;
+instanceInterpolations = {
+"8538028E-5D6C-4318-9676-30148CDA39CA" = -0.5;
+UUID0 = 1.5;
+};
+name = Light;
+weightClass = Light;
+},
+{
+interpolationWeight = 150;
+instanceInterpolations = {
+UUID0 = 1;
+};
+name = Regular;
+},
+{
+exports = 0;
+interpolationWeight = 200;
+instanceInterpolations = {
+"8538028E-5D6C-4318-9676-30148CDA39CA" = 0.5;
+UUID0 = 0.5;
+};
+name = Medium;
+weightClass = Medium;
+},
+{
+interpolationWeight = 250;
+instanceInterpolations = {
+"8538028E-5D6C-4318-9676-30148CDA39CA" = 1;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = Bold;
+}
+);
+keepAlternatesTogether = 1;
+manufacturer = "Quote-Unquote Apps";
+manufacturerURL = "http://quoteunquoteapps.com";
+unitsPerEm = 2048;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"8538028E-5D6C-4318-9676-30148CDA39CA" = {
+};
+UUID0 = {
+};
+};
+};
+versionMajor = 3;
+versionMinor = 18;
+}

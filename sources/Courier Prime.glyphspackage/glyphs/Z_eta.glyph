@@ -1,0 +1,24 @@
+{
+glyphname = Zeta;
+layers = (
+{
+components = (
+{
+name = Z;
+}
+);
+layerId = UUID0;
+width = 1228;
+},
+{
+components = (
+{
+name = Z;
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+width = 1228;
+}
+);
+unicode = 0396;
+}

@@ -1,0 +1,25 @@
+{
+color = 8;
+glyphname = micro;
+layers = (
+{
+components = (
+{
+name = mu;
+}
+);
+layerId = UUID0;
+width = 1228;
+},
+{
+components = (
+{
+name = mu;
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+width = 1228;
+}
+);
+unicode = 00B5;
+}

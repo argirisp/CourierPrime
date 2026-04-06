@@ -1,0 +1,31 @@
+{
+glyphname = lcommaaccent;
+layers = (
+{
+components = (
+{
+name = l;
+},
+{
+name = commaaccentcomb;
+}
+);
+layerId = UUID0;
+width = 1228;
+},
+{
+components = (
+{
+name = l;
+},
+{
+name = commaaccentcomb;
+transform = "{1, 0, 0, 1, -10, 0}";
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+width = 1228;
+}
+);
+unicode = 013C;
+}

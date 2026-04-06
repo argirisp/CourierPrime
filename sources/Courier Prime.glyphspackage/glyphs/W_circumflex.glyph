@@ -1,0 +1,36 @@
+{
+glyphname = Wcircumflex;
+layers = (
+{
+components = (
+{
+alignment = -1;
+name = W;
+},
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, 0, 270}";
+}
+);
+layerId = UUID0;
+width = 1228;
+},
+{
+components = (
+{
+alignment = -1;
+name = W;
+},
+{
+alignment = -1;
+name = circumflex;
+transform = "{1, 0, 0, 1, 10, 270}";
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+width = 1228;
+}
+);
+unicode = 0174;
+}

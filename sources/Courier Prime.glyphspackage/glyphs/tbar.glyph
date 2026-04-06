@@ -1,0 +1,67 @@
+{
+color = 6;
+glyphname = tbar;
+layers = (
+{
+components = (
+{
+name = t;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"243 576 LINE SMOOTH",
+"198 576 OFFCURVE",
+"180 558 OFFCURVE",
+"180 508 CURVE SMOOTH",
+"180 458 OFFCURVE",
+"198 440 OFFCURVE",
+"243 440 CURVE SMOOTH",
+"805 440 LINE SMOOTH",
+"850 440 OFFCURVE",
+"868 458 OFFCURVE",
+"868 508 CURVE SMOOTH",
+"868 558 OFFCURVE",
+"850 576 OFFCURVE",
+"805 576 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+},
+{
+components = (
+{
+name = t;
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+paths = (
+{
+closed = 1;
+nodes = (
+"243 545 LINE SMOOTH",
+"198 545 OFFCURVE",
+"180 527 OFFCURVE",
+"180 442 CURVE SMOOTH",
+"180 357 OFFCURVE",
+"198 340 OFFCURVE",
+"243 340 CURVE SMOOTH",
+"805 340 LINE SMOOTH",
+"850 340 OFFCURVE",
+"868 357 OFFCURVE",
+"868 442 CURVE SMOOTH",
+"868 527 OFFCURVE",
+"850 545 OFFCURVE",
+"805 545 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+}
+);
+unicode = 0167;
+}

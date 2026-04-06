@@ -1,0 +1,72 @@
+{
+glyphname = won;
+layers = (
+{
+components = (
+{
+name = W;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"33 750 LINE SMOOTH",
+"-12 750 OFFCURVE",
+"-30 732 OFFCURVE",
+"-30 682 CURVE SMOOTH",
+"-30 632 OFFCURVE",
+"-12 614 OFFCURVE",
+"33 614 CURVE SMOOTH",
+"558 614 LINE",
+"612 664 LINE",
+"674 614 LINE",
+"1195 614 LINE SMOOTH",
+"1240 614 OFFCURVE",
+"1258 632 OFFCURVE",
+"1258 682 CURVE SMOOTH",
+"1258 732 OFFCURVE",
+"1240 750 OFFCURVE",
+"1195 750 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+},
+{
+components = (
+{
+name = W;
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+paths = (
+{
+closed = 1;
+nodes = (
+"33 764 LINE SMOOTH",
+"-12 764 OFFCURVE",
+"-30 750 OFFCURVE",
+"-30 671 CURVE SMOOTH",
+"-30 593 OFFCURVE",
+"-12 579 OFFCURVE",
+"33 579 CURVE SMOOTH",
+"541 579 LINE",
+"607 579 LINE",
+"679 579 LINE",
+"1195 579 LINE SMOOTH",
+"1240 579 OFFCURVE",
+"1258 593 OFFCURVE",
+"1258 671 CURVE SMOOTH",
+"1258 750 OFFCURVE",
+"1240 764 OFFCURVE",
+"1195 764 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+}
+);
+unicode = 20A9;
+}

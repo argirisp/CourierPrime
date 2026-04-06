@@ -1,0 +1,38 @@
+{
+color = 4;
+glyphname = grave.case;
+layers = (
+{
+anchors = (
+{
+name = _top;
+position = "{614, 1187}";
+}
+);
+components = (
+{
+name = grave;
+transform = "{1, 0, 0, 1, 0, 270}";
+}
+);
+layerId = UUID0;
+width = 1228;
+},
+{
+anchors = (
+{
+name = _top;
+position = "{614, 1187}";
+}
+);
+components = (
+{
+name = grave;
+transform = "{1, 0, 0, 1, 0, 270}";
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+width = 1228;
+}
+);
+}

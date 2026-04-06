@@ -1,0 +1,68 @@
+{
+glyphname = cent;
+layers = (
+{
+components = (
+{
+name = c;
+transform = "{1, 0, 0, 1, 0, 140}";
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"565 1312 OFFCURVE",
+"544 1293 OFFCURVE",
+"544 1247 CURVE SMOOTH",
+"544 -60 LINE SMOOTH",
+"544 -106 OFFCURVE",
+"565 -125 OFFCURVE",
+"614 -125 CURVE SMOOTH",
+"663 -125 OFFCURVE",
+"684 -106 OFFCURVE",
+"684 -60 CURVE SMOOTH",
+"684 1247 LINE SMOOTH",
+"684 1293 OFFCURVE",
+"663 1312 OFFCURVE",
+"614 1312 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+},
+{
+components = (
+{
+name = c;
+transform = "{1, 0, 0, 1, 0, 140}";
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+paths = (
+{
+closed = 1;
+nodes = (
+"543 1312 OFFCURVE",
+"525 1294 OFFCURVE",
+"525 1249 CURVE SMOOTH",
+"525 -62 LINE SMOOTH",
+"525 -107 OFFCURVE",
+"543 -125 OFFCURVE",
+"618 -125 CURVE SMOOTH",
+"693 -125 OFFCURVE",
+"711 -107 OFFCURVE",
+"711 -62 CURVE SMOOTH",
+"711 1249 LINE SMOOTH",
+"711 1294 OFFCURVE",
+"693 1312 OFFCURVE",
+"618 1312 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+}
+);
+unicode = 00A2;
+}

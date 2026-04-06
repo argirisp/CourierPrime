@@ -1,0 +1,67 @@
+{
+color = 6;
+glyphname = Eth;
+layers = (
+{
+components = (
+{
+name = D;
+}
+);
+layerId = UUID0;
+paths = (
+{
+closed = 1;
+nodes = (
+"113 680 LINE SMOOTH",
+"68 680 OFFCURVE",
+"50 662 OFFCURVE",
+"50 612 CURVE SMOOTH",
+"50 562 OFFCURVE",
+"68 544 OFFCURVE",
+"113 544 CURVE SMOOTH",
+"595 544 LINE SMOOTH",
+"640 544 OFFCURVE",
+"658 562 OFFCURVE",
+"658 612 CURVE SMOOTH",
+"658 662 OFFCURVE",
+"640 680 OFFCURVE",
+"595 680 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+},
+{
+components = (
+{
+name = D;
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+paths = (
+{
+closed = 1;
+nodes = (
+"103 719 LINE SMOOTH",
+"58 719 OFFCURVE",
+"40 701 OFFCURVE",
+"40 606 CURVE SMOOTH",
+"40 511 OFFCURVE",
+"58 494 OFFCURVE",
+"103 494 CURVE SMOOTH",
+"605 494 LINE SMOOTH",
+"650 494 OFFCURVE",
+"668 511 OFFCURVE",
+"668 606 CURVE SMOOTH",
+"668 701 OFFCURVE",
+"650 719 OFFCURVE",
+"605 719 CURVE SMOOTH"
+);
+}
+);
+width = 1228;
+}
+);
+unicode = 00D0;
+}

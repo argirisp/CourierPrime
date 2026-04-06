@@ -1,0 +1,24 @@
+{
+glyphname = anoteleia;
+layers = (
+{
+components = (
+{
+name = periodcentered;
+}
+);
+layerId = UUID0;
+width = 1228;
+},
+{
+components = (
+{
+name = periodcentered;
+}
+);
+layerId = "8538028E-5D6C-4318-9676-30148CDA39CA";
+width = 1228;
+}
+);
+unicode = 0387;
+}
